@@ -148,6 +148,8 @@ Pedro Uriel Perez Monzon
 
 ## Evidencia 1 — Fork creado
 <img src="evidencias/1_fork.png" width="800"/>
+<img width="921" height="521" alt="image" src="https://github.com/user-attachments/assets/d183862d-82b3-4989-aba9-e5efad837f00" />
+
 
 ## Evidencia 2 — git remote -v
 <img src="evidencias/2_remote.png" width="800"/>
