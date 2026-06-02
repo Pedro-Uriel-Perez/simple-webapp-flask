@@ -134,3 +134,7 @@ C --> D[Respuesta HTTP]
 - RF-08 El sistema deberá tener un tiempo de respuesta menor a 1 segundo.
 - RF-09 El sistema deberá incluir manejo básico de errores.
 - RF-10 El sistema deberá ser escalable mediante contenedores.
+
+
+## Team Members
+- Pedro Uriel Perez Monzon - Ing. en Desarrollo de Software
