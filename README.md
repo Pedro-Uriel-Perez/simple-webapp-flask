@@ -147,15 +147,14 @@ Pedro Uriel Perez Monzon
 [Pedro-Uriel-Perez/simple-webapp-flask](https://github.com/Pedro-Uriel-Perez/simple-webapp-flask)
 
 ## Evidencia 1 — Fork creado
-<img src="evidencias/1_fork.png" width="800"/>
 <img width="921" height="521" alt="image" src="https://github.com/user-attachments/assets/d183862d-82b3-4989-aba9-e5efad837f00" />
 
 
 ## Evidencia 2 — git remote -v
-<img src="evidencias/2_remote.png" width="800"/>
+<img width="921" height="169" alt="image" src="https://github.com/user-attachments/assets/47b728e8-35f4-4bda-a57e-671c7eb590f6" />
 
 ## Evidencia 3 — git branch
-<img src="evidencias/3_branch.png" width="800"/>
+<img width="581" height="166" alt="image" src="https://github.com/user-attachments/assets/cc0fb657-9e2c-49ed-9db0-f0d439b40c97" />
 
 ## Evidencia 4 — git log --oneline
 <img src="evidencias/4_log.png" width="800"/>
