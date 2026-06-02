@@ -157,23 +157,13 @@ Pedro Uriel Perez Monzon
 <img width="581" height="166" alt="image" src="https://github.com/user-attachments/assets/cc0fb657-9e2c-49ed-9db0-f0d439b40c97" />
 
 ## Evidencia 4 — git log --oneline
-<img src="evidencias/4_log.png" width="800"/>
+<img width="921" height="614" alt="image" src="https://github.com/user-attachments/assets/d9eb80de-e119-4e94-bc41-1a5c14259f9e" />
+
 
 ## Evidencia 5 — Pull Request creado
-<img src="evidencias/5_pullrequest.png" width="800"/>
+<img width="921" height="521" alt="image" src="https://github.com/user-attachments/assets/b7e29402-76e0-4aef-bf58-24c190ed0977" />
+
 
 ## Evidencia 6 — URL del Pull Request
-[https://github.com/mmumshad/simple-webapp-flask/pull/75](https://github.com/mmumshad/simple-webapp-flask/pull/75)
+[https://github.com/mmumshad/simple-webapp-flask/pull/75)
 
-## Comandos utilizados
-- git clone
-- git remote add
-- git fetch
-- git branch
-- git checkout
-- git status
-- git add
-- git commit
-- git push
-- git merge
-- git log
