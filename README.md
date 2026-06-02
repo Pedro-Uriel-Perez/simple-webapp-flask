@@ -161,7 +161,7 @@ Pedro Uriel Perez Monzon
 
 
 ## Evidencia 5 — Pull Request creado
-<img width="921" height="521" alt="image" src="https://github.com/user-attachments/assets/b7e29402-76e0-4aef-bf58-24c190ed0977" />
+<img width="921" height="521" alt="image" src="https://github.com/user-attachments/assets/9c02eef8-1750-47ec-8dd0-c5eec12f9284" />
 
 
 ## Evidencia 6 — URL del Pull Request
