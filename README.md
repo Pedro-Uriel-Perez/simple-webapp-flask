@@ -134,3 +134,45 @@ C --> D[Respuesta HTTP]
 - RF-08 El sistema deberá tener un tiempo de respuesta menor a 1 segundo.
 - RF-09 El sistema deberá incluir manejo básico de errores.
 - RF-10 El sistema deberá ser escalable mediante contenedores.
+
+# Práctica 03: Fork y Pull Request
+
+## Nombre del estudiante
+Pedro Uriel Perez Monzon
+
+## Repositorio trabajado
+[mmumshad/simple-webapp-flask](https://github.com/mmumshad/simple-webapp-flask)
+
+## Mi Fork
+[Pedro-Uriel-Perez/simple-webapp-flask](https://github.com/Pedro-Uriel-Perez/simple-webapp-flask)
+
+## Evidencia 1 — Fork creado
+<img src="evidencias/1_fork.png" width="800"/>
+
+## Evidencia 2 — git remote -v
+<img src="evidencias/2_remote.png" width="800"/>
+
+## Evidencia 3 — git branch
+<img src="evidencias/3_branch.png" width="800"/>
+
+## Evidencia 4 — git log --oneline
+<img src="evidencias/4_log.png" width="800"/>
+
+## Evidencia 5 — Pull Request creado
+<img src="evidencias/5_pullrequest.png" width="800"/>
+
+## Evidencia 6 — URL del Pull Request
+[https://github.com/mmumshad/simple-webapp-flask/pull/75](https://github.com/mmumshad/simple-webapp-flask/pull/75)
+
+## Comandos utilizados
+- git clone
+- git remote add
+- git fetch
+- git branch
+- git checkout
+- git status
+- git add
+- git commit
+- git push
+- git merge
+- git log
